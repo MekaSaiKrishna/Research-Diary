@@ -3,6 +3,10 @@
 ### Date: April 2nd (Tuesday)
 
 - [ ] Presentation for the internship meeting/ Prepare basics
+  - [ ] Go through Pipes's class document
+  - [ ] Dr.Zhang's Thesis brief overview
+  - [ ] SCA Summary and overview
+  - [ ] Whole overview of what I have done so far
 - [ ] Cooling simulation for the part
 - [ ] Incremental SCA and Total SCA comparison for our SCA formulation
 - [ ] Design and finish modeling the fixtures and update them here
