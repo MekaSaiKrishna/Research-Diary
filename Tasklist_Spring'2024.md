@@ -10,7 +10,7 @@
 - [ ] Cooling simulation for the part
 - [ ] Incremental SCA and Total SCA comparison for our SCA formulation
 - [ ] Design and finish modeling the fixtures and update them here
-- [ ] Failure Criteria Summary
+- [x] Failure Criteria Summary
 - [ ] AAE555 HW10 - (Work after going home)
 - [ ] AAE555 Watch pending lectures
 - [ ] AAE648 Look at project implementation
