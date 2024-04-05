@@ -18,14 +18,14 @@
 
 ### Date: April 3rd (Wednesday)
 - [ ] AAE648 try coding project 2 and theory/ list down the doubts
-- [ ] Research work -  Update the presentation
-- [ ] Submit AAE555 HW10
-- [ ] Prepare for the interview properly and practice the presentation
+- [x] Research work -  Update the presentation
+- [x] Submit AAE555 HW10
+- [x] Prepare for the interview properly and practice the presentation
 - [ ] Wrap up the Research Presentation
 
 ### Date: April 4th (Thursday)
 - [ ] AAE648 Class - Ask doubts on Project 2
-- [ ] Phone Interview with GE
+- [x] Phone Interview with GE
 - [ ] Research Meeting
 - [ ] Grade HW 8 for AAE454 with Jaya
 - [ ] Work on HW 9 of AAE454 and post solutions
