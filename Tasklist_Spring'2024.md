@@ -34,3 +34,11 @@
 - [ ] Work on HW 10 of AAE454
 - [ ] Work on HW 11 of AAE555
 - [ ] Work on Project 2 of AAE648
+
+___
+### Date: April 7th (Sunday)
+- [ ] OSRR pdf read, email if needed
+- [ ] Cases.gov check if case is updated [link](https://public.courts.in.gov/mycase/#/vw/Search)
+- [ ] Reach out to public defendant/pro bono lawyers, read more
+- [ ] Call the police and find out about Case #? (+17654231655)
+- [ ] 
