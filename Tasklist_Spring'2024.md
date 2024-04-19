@@ -46,7 +46,8 @@ ___
 ### Date: April 20th (Saturday)
 - [ ] OSRR work
   - [ ] Statement submission
-  - [ ] Interview doc 
+  - [ ] Interview doc with Saiee
+  - [ ] Other scheduling to be done
 - [ ] Academics
   - [ ] AAE454:
     - [ ] Clear Valerie doubts, grade HW8
@@ -61,4 +62,4 @@ ___
   - [ ] ML with physics approach for constitutive behavior of $\sigma_{22}$ tension/compression and shear $\sigma_{12}$, $\sigma_{13}$, and $\sigma_{23}$ 
 - [ ] GE Internship
   - [ ] Housing / accomodation short list and calls
-  - [ ]  
+
