@@ -42,3 +42,23 @@ ___
 - [ ] Reach out to public defendant/pro bono lawyers, read more
 - [ ] Call the police and find out about Case #? (+17654231655)
 - [ ] 
+___
+### Date: April 20th (Saturday)
+- [ ] OSRR work
+  - [ ] Statement submission
+  - [ ] Interview doc 
+- [ ] Academics
+  - [ ] AAE454:
+    - [ ] Clear Valerie doubts, grade HW8
+    - [ ] HW11 solutions upload and grade
+  - [ ] AAE555:
+    - [ ] HW 13 due on 24th April
+    - [ ] Project due on 26th April
+- [ ] Research
+  - [ ] Make SSDM 2024 Presentation 
+  - [ ] 3 point bend sim with fixtures
+  - [ ] Try creating 'fsolve' equivalent in FORTRAN
+  - [ ] ML with physics approach for constitutive behavior of $\sigma_{22}$ tension/compression and shear $\sigma_{12}$, $\sigma_{13}$, and $\sigma_{23}$ 
+- [ ] GE Internship
+  - [ ] Housing / accomodation short list and calls
+  - [ ]  
