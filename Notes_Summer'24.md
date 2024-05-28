@@ -1,6 +1,6 @@
 # Summer 2024
 
-## Group Meeting (05/24/24): Minutes of meeting:
+## 1. Group Meeting (05/24/24): Minutes of meeting:
 * Organizing data, Summary of what everyone is doing
 * **Microsoft Teams** $\rightarrow$ Sync with one drive folder, Dicussion, and communication
 * Citation manager $\rightarrow$ **Zotero**
