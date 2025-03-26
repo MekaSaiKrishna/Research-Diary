@@ -3,9 +3,14 @@
 ### Prelims Examination
 - [x] Form 8 Submission
 - [ ] Prelims Presentation
-  - [ ] 
-  - [ ] 
-  - [ ] 
+  - [ ] Introduction
+    - [ ] Motivation
+    - [ ] Background
+    - [ ] Research Questions
+  - [ ] RQ1: Smeared Crack Approach
+  - [ ] RQ2: CHILE model
+  - [ ] RQ3: Optimization
+  - [ ] Future Work/ Timeline
 - [ ] Conduct experiments L shape (RCC)
   - [ ] Speckle the specimens
   - [ ] Conduct experiments
