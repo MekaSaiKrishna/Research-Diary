@@ -48,6 +48,10 @@ ___
     - [ ] Pascal Hubert - Aspects of Flow and Compaction of Laminated Composite Shapes During Cure
     - [ ] Johnston - An Integrated Model of Development of Process-Induced Deformation
 
+### Side Tasks
+- [ ] Update research website
+- [ ] Kaggle course - Deep Learning, Machine Learning
+- [ ] Read PINN papers and make notes
 
 
 
