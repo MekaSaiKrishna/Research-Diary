@@ -37,3 +37,41 @@ ___
     - [ ] L shape 4 point bending 
   - [ ] Future Work
   - [ ] Conclusions
+
+### Research Tasks
+- [ ] Develop AFEM - SCA framework
+- [ ] Develop Dcr calculation for Non-Linear Traction-Separation law
+- [ ] Explore Failure Criteria/Crack Direction
+- [ ] Effect of Pressure and Temperature on Viscosity and Void Formation
+  - [ ] COMPRO documentation
+    - [ ] Pascal Hubert - Aspects of Flow and Compaction of Laminated Composite Shapes During Cure
+    - [ ] Johnston - An Integrated Model of Development of Process-Induced Deformation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
