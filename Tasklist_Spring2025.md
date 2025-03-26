@@ -39,6 +39,7 @@ ___
   - [ ] Conclusions
 
 ### Research Tasks
+- [ ] Create Figures and Animations 
 - [ ] Develop AFEM - SCA framework
 - [ ] Develop Dcr calculation for Non-Linear Traction-Separation law
 - [ ] Explore Failure Criteria/Crack Direction
