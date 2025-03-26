@@ -16,6 +16,10 @@
   - [ ] Conduct experiments
   - [ ] Post process DIC data
   - [ ] Plotting the Load vs Displacement curves
+
+___
+
+
 - [ ] Prelims Document
   - [ ] Introduction
   - [ ] Process
