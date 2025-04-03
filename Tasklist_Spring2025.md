@@ -11,11 +11,11 @@
   - [ ] RQ2: CHILE model
   - [ ] RQ3: Optimization
   - [ ] Future Work/ Timeline
-- [ ] Conduct experiments L shape (RCC)
-  - [ ] Speckle the specimens
-  - [ ] Conduct experiments
-  - [ ] Post process DIC data
-  - [ ] Plotting the Load vs Displacement curves
+- [x] Conduct experiments L shape (RCC)
+  - [x] Speckle the specimens
+  - [x] Conduct experiments
+  - [x] Post process DIC data
+  - [x] Plotting the Load vs Displacement curves
 - [ ] Prelims Document
   - [ ] Introduction
   - [ ] Process
@@ -42,10 +42,23 @@
 
 ### Side Tasks
 - [ ] Update research website
-- [ ] Kaggle course - Deep Learning, Machine Learning
+- [ ] Kaggle course
+  - [ ] Deep Learning
+  - [ ] Machine Learning
 - [ ] Read PINN papers and make notes
 
+___
+## Tasks April 2025
 
+- [ ] Coordinate Transformation in Simulation - (Match with DIC strain Limits)
+- [ ] DIC strain data - Units and Limits
+- [ ] Calibrate load cell with dead weight
+- [ ] Revisit formulation of L shape bending
+- [ ] Update IM7/8552 material properties - make a data sheet compilation word document
+- [ ] Update simulation with composite section
+  - [ ] (i)   half L shape (half width) [hLhW]
+  - [ ] (ii)  half L shape (full width) [hLfW]
+  - [ ] (iii) full L shape (full width) [fLfW]
 
 
 
