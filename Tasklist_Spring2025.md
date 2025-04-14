@@ -68,6 +68,12 @@ ___
   - [ ] Compression 22 (Trans-IN PLANE)
   - [ ] Tension 33 (Trans-OUT OF PLANE)
   - [ ] Compression 33 (Trans-OUT OF PLANE)
+  - [ ] Simple Shear 12 (POSITIVE)
+  - [ ] Simple Shear 13 (POSITIVE)
+  - [ ] Simple Shear 23 (POSITIVE)
+  - [ ] Simple Shear 12 (NEGATIVE)
+  - [ ] Simple Shear 13 (NEGATIVE)
+  - [ ] Simple Shear 23 (NEGATIVE)
 
 
 
