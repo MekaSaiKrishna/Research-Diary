@@ -62,7 +62,12 @@ ___
 
 ### Date: April 14th, 2025
 - [ ] AFEM - Incremental SCA
-  - [ ] 
+  - [ ] Tension 11 (Longitudinal)
+  - [ ] Compression 11 (Longitudinal)
+  - [ ] Tension 22 (Trans-IN PLANE)
+  - [ ] Compression 22 (Trans-IN PLANE)
+  - [ ] Tension 33 (Trans-OUT OF PLANE)
+  - [ ] Compression 33 (Trans-OUT OF PLANE)
 
 
 
