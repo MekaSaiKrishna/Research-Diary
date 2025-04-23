@@ -60,7 +60,9 @@ ___
   - [ ] (ii)  half L shape (full width) [hLfW]
   - [ ] (iii) full L shape (full width) [fLfW]
 
-### Date: April 14th, 2025
+### Date: April 24th, 2025
+- [ ] DIC (imageJ) and track roller displacement
+- [ ] Displacement derivation - Lekhnitskii (Checkout CCA derivation DZhang thesis)
 - [ ] AFEM - Incremental SCA
   - [ ] Tension 11 (Longitudinal)
   - [ ] Compression 11 (Longitudinal)
